@@ -18,4 +18,4 @@ User-agent: DotBot
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://1x-bet-17.onrender.com/sitemap.xml
+Sitemap: https://onex-bet-17.onrender.com/sitemap.xml
